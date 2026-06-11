@@ -2,11 +2,11 @@
 
 I'm Jayleen, a rising senior majoring in Mathematics @ Mount Holyoke College. I'm interested in mathematical modeling, optimization, and computational methods across applications in physics, robotics and neuroscience. 
 
-**Current Work**
+### Current Work
 
 🌀 **Energy Cascades in Nonlinear Schrödinger Systems**: SIMD Monte Carlo simulation + Nonequilibrium statistical mechanics
 
-**Past Work**
+### Past Work
 
 ⚡️ **Optimization for EV Charger Placement** : Multi-objective optimization on weighted graphs + Scalable algorithms for equitable charging network deployment
 
