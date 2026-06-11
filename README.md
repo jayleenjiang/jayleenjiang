@@ -5,12 +5,14 @@ I'm Jayleen Jiang, a rising senior majoring in Mathematics @ Mount Holyoke Colle
 My research focuses on mathematical modeling, optimization, and computational methods across applications in physics, robotics, neuroscience, and public infrastructure.
 
 **Current Work**
+
 🌀 **Numerical Study of Energy Cascades in Nonlinear Schrödinger Systems**
 - SIMD Monte Carlo simulation
 - Fokker–Planck equations
 - Nonequilibrium statistical mechanics
 
 **Past Work**
+
 🚗 **Fairness-Constrained Optimization for EV Charger Placement**
 - Multi-objective optimization on weighted graphs
 - Scalable algorithms for equitable charging network deployment
