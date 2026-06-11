@@ -1,4 +1,4 @@
-# Hi there! 👋
+### Hi there! 👋
 
 I'm Jayleen Jiang, a rising senior majoring in Mathematics @ Mount Holyoke College.
 
