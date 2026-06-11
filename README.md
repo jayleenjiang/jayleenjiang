@@ -1,4 +1,4 @@
-**Hi there!** 👋
+### Hi there! 👋
 
 I'm Jayleen Jiang, a rising senior majoring in Mathematics @ Mount Holyoke College.
 
@@ -21,12 +21,12 @@ I'm interested in mathematical modeling, optimization, and computational methods
 - EEG/ERP analysis
 - Bayesian models of speech perception
 
-**Connect with me** 🔗
+### Connect with me 🔗
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](你的LinkedIn链接)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiang37j@mtholyoke.edu)
 
-**Tools**
+### Tools
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
