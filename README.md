@@ -4,9 +4,7 @@ I'm Jayleen, a rising senior majoring in Mathematics @ Mount Holyoke College. I'
 
 **Current Work**
 
-**Energy Cascades in Nonlinear Schrödinger Systems**
-- SIMD Monte Carlo simulation
-- Nonequilibrium statistical mechanics
+**Energy Cascades in Nonlinear Schrödinger Systems**: SIMD Monte Carlo simulation + Nonequilibrium statistical mechanics
 
 **Past Work**
 
