@@ -2,7 +2,7 @@
 
 I'm Jayleen Jiang, a rising senior majoring in Mathematics @ Mount Holyoke College.
 
-My research focuses on mathematical modeling, optimization, and computational methods across applications in physics, robotics, neuroscience, and public infrastructure.
+I'm interested in mathematical modeling, optimization, and computational methods across applications in physics, robotics, neuroscience, and public infrastructure.
 
 **Current Work**
 
