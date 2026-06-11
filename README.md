@@ -6,7 +6,6 @@ I'm Jayleen Jiang, a rising senior majoring in Mathematics @ Mount Holyoke Colle
 
 🌀 **Numerical Study of Energy Cascades in Nonlinear Schrödinger Systems**
 - SIMD Monte Carlo simulation
-- Fokker–Planck equations
 - Nonequilibrium statistical mechanics
 
 **Past Work**
