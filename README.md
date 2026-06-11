@@ -20,7 +20,8 @@ I'm Jayleen Jiang, a rising senior majoring in Mathematics @ Mount Holyoke Colle
 
 ### Connect with me 🔗
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](你的LinkedIn链接)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
+https://www.linkedin.com/in/jialujiang)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiang37j@mtholyoke.edu)
 
 ### Tools
