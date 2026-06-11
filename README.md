@@ -4,14 +4,14 @@ I'm Jayleen Jiang, a rising senior majoring in Mathematics @ Mount Holyoke Colle
 
 My research focuses on mathematical modeling, optimization, and computational methods across applications in physics, robotics, neuroscience, and public infrastructure.
 
-## Current Work
+### Current Work
 
 ### 🌀 Numerical Study of Energy Cascades in Nonlinear Schrödinger Systems
 - SIMD Monte Carlo simulation
 - Fokker–Planck equations
 - Nonequilibrium statistical mechanics
 
-## Past Research
+### Past Work
 
 ### 🚗 Fairness-Constrained Optimization for EV Charger Placement
 - Multi-objective optimization on weighted graphs
@@ -22,7 +22,7 @@ My research focuses on mathematical modeling, optimization, and computational me
 - EEG/ERP analysis
 - Bayesian and particle-filter models of speech perception
 
-## Connect with me 🔗
+### Connect with me 🔗
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](你的LinkedIn链接)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiang37j@mtholyoke.edu)
