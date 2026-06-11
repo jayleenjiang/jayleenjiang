@@ -4,21 +4,21 @@ I'm Jayleen, a rising senior majoring in Mathematics @ Mount Holyoke College. I'
 
 **Current Work**
 
-🌀 **Energy Cascades in Nonlinear Schrödinger Systems**
+**Energy Cascades in Nonlinear Schrödinger Systems**
 - SIMD Monte Carlo simulation
 - Nonequilibrium statistical mechanics
 
 **Past Work**
 
-⚡️ **Optimization for EV Charger Placement**
+**Optimization for EV Charger Placement**
 - Multi-objective optimization on weighted graphs
 - Scalable algorithms for equitable charging network deployment
 
-🧠 **Computational Study of Distal Speech Rate Effects**
+**Computational Study of Distal Speech Rate Effects**
 - EEG/ERP analysis
 - Bayesian models of speech perception
 
-### Connect with me 🔗
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
 https://www.linkedin.com/in/jialujiang)
