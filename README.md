@@ -25,7 +25,3 @@ https://www.linkedin.com/in/jialujiang)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
----
-
-My profile picture is Thanatos from *Hades*. If you have not played it yet, I highly recommend giving it a try...
