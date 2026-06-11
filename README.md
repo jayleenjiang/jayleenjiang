@@ -34,4 +34,4 @@ https://www.linkedin.com/in/jialujiang)
 
 ---
 
-My profile picture is Thanatos from *Hades*. If you have not played it yet, I highly recommend giving it a try. :D
+My profile picture is Thanatos from *Hades*. If you have not played it yet, I highly recommend giving it a try!
