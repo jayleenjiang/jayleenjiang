@@ -1,6 +1,6 @@
 ### Hi there! 
 
-I'm Jayleen, a rising senior majoring in Mathematics @ Mount Holyoke College. Some of my research work:
+I'm Jayleen, a rising senior majoring in Math & DS @ Mount Holyoke College. Some of my research work:
 
 **Energy Cascades in Nonlinear Schrödinger Systems**: SIMD Monte Carlo simulation + Nonequilibrium statistical mechanics
 
